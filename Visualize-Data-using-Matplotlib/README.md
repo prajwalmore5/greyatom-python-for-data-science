@@ -7,14 +7,14 @@
 
   In this concept, I learnt
 
-Terminologies in matplotlib
-Different types of plots
-Plot customizations
-Visualization with Pandas
+1. Terminologies in matplotlib
+2. Different types of plots
+3. Plot customizations
+4. Visualization with Pandas
 
 I am able to do the following:
-Build custom plots with matplotlib and Pandas
-Catch trends, anomalies and patterns in data with visualizing data
-Know which plot is suitable for different types of data and use accordingly
+1. Build custom plots with matplotlib and Pandas
+2. Catch trends, anomalies and patterns in data with visualizing data
+3. Know which plot is suitable for different types of data and use accordingly
 
 
