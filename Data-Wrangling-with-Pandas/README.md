@@ -11,9 +11,11 @@ In this concept I learnt
 2. Access data in Dataframes
 3. Basic operations on Dataframes
 4. Advanced operations on Dataframes
-5. Loading data into Pandas dataframe.
-6. Perform common data manipulation tasks
-7. Use functions such as groupby, merge, and pivot tables effectively.
-8. Clean data end-to-end using the Pokemon dataset.
+
+After completing this I am able to do the following
+1. Loading data into Pandas dataframe.
+2. Perform common data manipulation tasks
+3. Use functions such as groupby, merge, and pivot tables effectively.
+4. Clean data end-to-end using the Pokemon dataset.
 
 
